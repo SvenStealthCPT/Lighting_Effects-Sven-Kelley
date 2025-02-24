@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 958
     height: 973
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -464,7 +464,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300007a4d0000864d0000924d00001a4c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -577,9 +577,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c4c0000
-      m_LastClickedID: 19532
-      m_ExpandedIDs: 30fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 30fbffff6c4c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -972,9 +972,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.740872, y: -0.5159998, z: 19.29204}
+    m_Target: {x: 15.041803, y: -9.068599, z: 18.255787}
     speed: 2
-    m_Value: {x: -2.740872, y: -0.5159998, z: 19.29204}
+    m_Value: {x: 15.041803, y: -9.068599, z: 18.255787}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1020,20 +1020,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1930487, y: -0.67571753, z: 0.19028868, w: -0.6855223}
+    m_Target: {x: -0.10458974, y: -0.699537, z: 0.104651675, w: -0.69912183}
     speed: 2
-    m_Value: {x: -0.1933327, y: -0.6746842, z: 0.18999769, w: -0.68653077}
+    m_Value: {x: -0.1044319, y: -0.7005799, z: 0.10480769, w: -0.6980667}
   m_Size:
     m_Target: 12.124355
     speed: 2
-    m_Value: 12.124354
+    m_Value: 12.124355
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.1804099
-    m_SpeedNormalized: 0.59
+    m_Speed: 1.3603197
+    m_SpeedNormalized: 0.6799999
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
